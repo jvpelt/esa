@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "esa",
+    "slug": "esa",
+    "version": "1.0.0",
+    "sdkVersion": "44.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "ios": {
+      "bundleIdentifier": "esa"
+    },
+    "android": {
+      "package": "esa.apk"
+    }
+  }
+}
